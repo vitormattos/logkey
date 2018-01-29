@@ -1,3 +1,13 @@
+# Logkey
+
+Why should I use a keylog?
+
+Imagine that a person asks you to use your computer to do something and you
+kindly do it. We are not looking to know what this person will do on your
+computer. Will this person access files that they should not? Will this person
+execute malicious commands? When in doubt, run a keylog and check everything the
+person did on your pc.
+
 ## Instaling dependencies
 
 Run this command:
