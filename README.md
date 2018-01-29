@@ -1,4 +1,4 @@
-# Logkey
+# Keylog
 
 Why should I use a keylog?
 
@@ -13,7 +13,7 @@ person did on your pc.
 Run this command:
 
 ```
-sudo apt install logkeys gksu
+sudo apt install logkeys
 ```
 
 ## Configuring sudoers file
